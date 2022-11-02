@@ -1,0 +1,18 @@
+.my-container{
+  width: 200px;
+  height: 200px;
+  background-color: lightblue;
+}
+.my-second-container{
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  margin: 20px;
+}
+.super-dark{
+  background-color: darkblue;
+}
+.super-dark-text{
+  color: lightcoral;
+  text-decoration: underline;
+}
